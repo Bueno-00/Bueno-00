@@ -12,6 +12,8 @@ Engenheiro de automação e IA. Construo agentes com LLM, pipelines de dados e i
 - [Projeto-BikeStore---Arquitetura-Medallion](https://github.com/Bueno-00/Projeto-BikeStore---Arquitetura-Medallion): camadas bronze, prata e ouro no Databricks com Spark e SQL.
 - [data-flow-orchestration](https://github.com/Bueno-00/data-flow-orchestration): ETL com Python, SQLite, Azure Blob Storage e Power BI.
 
+Lista completa: [projetos-pt](https://github.com/Bueno-00/projetos-pt)
+
 ### Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 
@@ -35,6 +37,8 @@ Automation and AI engineer. I build LLM agents, data pipelines and integrations 
 - [Databricks-Project](https://github.com/Bueno-00/Databricks-Project): financial and Bitcoin data pipeline on Databricks, Lakehouse architecture.
 - [Projeto-BikeStore---Arquitetura-Medallion](https://github.com/Bueno-00/Projeto-BikeStore---Arquitetura-Medallion): bronze, silver and gold layers on Databricks with Spark and SQL.
 - [data-flow-orchestration](https://github.com/Bueno-00/data-flow-orchestration): ETL with Python, SQLite, Azure Blob Storage and Power BI.
+
+Full list: [projects-en](https://github.com/Bueno-00/projects-en)
 
 ### Stack
 Same as above. Microsoft certifications: AZ-900 and DP-900.
